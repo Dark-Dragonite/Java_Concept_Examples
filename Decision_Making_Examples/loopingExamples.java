@@ -25,6 +25,7 @@ public class loopingExamples {
         if (temp > 5)
             if (temp < max)
                 System.out.println("Normal Temperature");
+
             else
                 System.out.println("High Temperature");
         else
